@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#! /bin/bash
 personal_key="$1"
 ticket_file="$2"
 event_file="$3"
